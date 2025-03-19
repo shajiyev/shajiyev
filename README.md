@@ -1,16 +1,11 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**shajiyev/shajiyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ About Me
+	•	🎓 IT student at ADA University, Baku
+	•	💡 Passionate about technology, coding, and problem-solving
+	•	🚀 Exploring AI, machine learning, and software development
+	•	🔭 I’m currently working on personal projects and expanding my knowledge of AI
+📫 How to Reach Me
+	•	📧 Email: shajiyev23228@ada.edu.az
+ 
+	•	🔗 LinkedIn: [your LinkedIn profile]
